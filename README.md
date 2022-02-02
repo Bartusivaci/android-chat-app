@@ -46,11 +46,11 @@ This is the common chat room where users can send and receive messages. Their us
 
 <img src= "https://user-images.githubusercontent.com/86726474/151854953-1c179214-0fde-4cc1-8145-d1873b394f23.png">
 
-Users collection keeps the user datas.
+Users collection stores the user datas.
 
 <img src= "https://user-images.githubusercontent.com/86726474/151854933-8c811e6f-d623-4fb5-98e9-b5041ef30e1c.png">
 
-Chat collection keeps the chat messages.
+Chat collection stores the chat messages.
 
 <img src= "https://user-images.githubusercontent.com/86726474/151854979-889bb895-e4c0-4652-8dbf-177e237dd145.png">
 
